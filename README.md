@@ -30,7 +30,7 @@ const greet = (name) => {
 > >
 > > > `fetchData( )`,
 > > > `calculateArea( )`,
-> > > or `printReport( ).
+> > > or `printReport( ).`
 
 # Calling a function
 
