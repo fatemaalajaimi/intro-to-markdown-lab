@@ -59,7 +59,7 @@ const addNums = (numA, numB) => {
 For more information on functions and how they are used in JS, check out the MDN docs.
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
-![Image](https://www.google.com/imgres?q=javascript%20image&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&imgrefurl=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FJavaScript&docid=0LxdHiOIFqO5iM&tbnid=xJB_tNCymTHzpM&vet=12ahUKEwjcqv-vnPCIAxVzS_EDHYHJKIsQM3oECBgQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjcqv-vnPCIAxVzS_EDHYHJKIsQM3oECBgQAA)
+![Image](./JS.png)
 
 # h1
 
